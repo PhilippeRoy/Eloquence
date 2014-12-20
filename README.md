@@ -1,4 +1,4 @@
 Eloquence
 =========
 
-Working examples based on Eloquent Javascript 
+Working examples based on Eloquent Javascript
